@@ -1,0 +1,5 @@
+- Hello, I am @japharel. Also known in the real world as Japhet.
+- I'm currently stu-dying the 8th semester of Geophysics Engineering at School of Engineering, UNAM.
+- At the moment, I'm getting to know all this Python x Data Science world; while mainly focused on Earth Science applications, I'm not closed to other options or areas where I could apply my adquired knowledge
+- Not currently looking for collaborations, but interested in learning. Maybe gaining some experience.
+- Find me on Twitter as @japharel_43. Also, contact me at japhet.arellanos43@gmail.com
